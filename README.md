@@ -33,8 +33,8 @@ The performance of both ridge and lasso are quite similar in terms of R2_score. 
 
 
 ## Technologies Used
-> numpy version 1.21.5
-> pandas version 1.4.4
-> matplotlib version 3.5.2
-> seaborn version 0.11.2
-> sklearn version 1.0.2
+> 1. numpy version 1.21.5
+> 2. pandas version 1.4.4
+> 3. matplotlib version 3.5.2
+> 4. seaborn version 0.11.2
+> 5. sklearn version 1.0.2
