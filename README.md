@@ -21,18 +21,18 @@ Create a model for the price of houses with the available independent variables.
 ## Conclusions
 
 The top five features influencing the house prices are:
-GrLivArea
-OverallQual_Excellent
-OverallQual_Very Excellent
-Neighborhood_NoRidge
-RoofMatl_WdShngl
+> GrLivArea
+> OverallQual_Excellent
+> OverallQual_Very Excellent
+> Neighborhood_NoRidge
+> RoofMatl_WdShngl
 
 The performance of both ridge and lasso are quite similar in terms of R2_score. Lasso has some advantages over ridge like feature selection and ease of understanding due to less number of features.So, we will apply Lasso regression for this case.
 
 
 ## Technologies Used
-numpy version 1.21.5
-pandas version 1.4.4
-matplotlib version 3.5.2
-seaborn version 0.11.2
-sklearn version 1.0.2
+> numpy version 1.21.5
+> pandas version 1.4.4
+> matplotlib version 3.5.2
+> seaborn version 0.11.2
+> sklearn version 1.0.2
